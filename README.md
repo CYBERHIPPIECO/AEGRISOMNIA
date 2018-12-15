@@ -1,7 +1,7 @@
 ![Project Banner](/assets/template_visuals/temp-banner.png)
 
 <a name="intro"></a>
-# AEGRISOMNIA - Mini Interactive Fiction
+# AEGRI SOMNIA - Mini Interactive Fiction
 Description.
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
